@@ -1,6 +1,9 @@
 # taller #1 de Arquitectura de Software: Cliente-Servidor
 
 ## Descripción
+- Nombre : Diego Fernando Benitez Camacho
+- Facultad : Ingenieria de Sistemas
+- semestre: 7
 
 Este proyecto proporciona una plantilla para la implementación de los ejemplos del modelo Cliente/Servidor, según se explican en el vídeo [Programando Cliente/Servidor con Python](https://www.youtube.com/watch?v=kPXa73a0kCA)
 

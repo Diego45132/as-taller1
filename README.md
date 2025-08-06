@@ -58,7 +58,7 @@ pip install -r requirements.txt
 - **Descripción**: Implementación básica de comunicación cliente-servidor con sockets
 - **Características**:
   - _elabora la documentación_
-  - ...
+  - Esta implementación sirve como un punto de partida para entender los principios básicos de la comunicación en red
   - ...
 
 **Uso**:
@@ -77,7 +77,7 @@ python cliente.py
 - **Descripción**: Servidor que devuelve exactamente lo que recibe del cliente
 - **Características**:
   - _elabora la documentación_
-  - ...
+  - Esta implementación se basa en un patrón de "eco" para la comunicación de red, donde el servidor refleja los datos que recibe. Esto es útil para pruebas de conectividad y para entender el flujo en una red.
   - ...
 
 **Uso**:
@@ -96,7 +96,7 @@ python cliente.py
 - **Descripción**: Sistema de chat que permite múltiples usuarios conectados simultáneamente
 - **Características**:
   - _elabora la documentación_
-  - ...
+  - Este sistema de chat está diseñado para ser concurrente, permitiendo que múltiples clientes se conecten y se comuniquen entre sí a través de un servidor central.
   - ...
 
 **Uso**:
@@ -115,8 +115,8 @@ python cliente.py
 - **Descripción**: Implementación de un servidor HTTP básico desde cero
 - **Características**:
   - _elabora la documentación_
-  - ...
-  - ...
+  - Esta implementación es un ejemplo de cómo un servidor HTTP funciona a un nivel muy bajo. El servidor no procesa rutas (/about, /contact), ni métodos (POST, PUT), pero ilustra el ciclo básico de una petición-respuesta HTTP.
+  - Este servidor HTTP básico es un excelente punto de partida para entender los principios de la comunicación web, antes de pasar a frameworks más avanzados que automatizan gran parte de este proceso.
 
 **Uso**:
 
@@ -134,8 +134,8 @@ python server.py
 - **Descripción**: _Cada estudiante debe crear un programa cliente/servidor de su elección_
 - **Características**:
   - _elabora la documentación_
-  - ...
-  - ...
+  - Este sistema cliente-servidor simula un Centro de Diagnóstico Vehicular. Permite a varios clientes conectarse al servidor simultáneamente para enviar información de sus vehículos, y recibir un diagnóstico basado en la antigüedad y kilometraje.
+  - 
 
 **Uso**:
 
